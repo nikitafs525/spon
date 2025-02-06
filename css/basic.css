@@ -1,0 +1,51 @@
+:root{
+
+}
+
+*{
+    box-sizing: border-box;
+}
+
+body,html{
+height: 100px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+a{
+    text-decoration: none;
+}
+
+li{
+    list-style: none;
+}
+
+ul,ol{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    
+}
+
