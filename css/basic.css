@@ -10,29 +10,6 @@ body,html{
 height: 100px;
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 a{
     text-decoration: none;
 }
@@ -46,6 +23,7 @@ ul,ol{
     padding: 0;
 }
 .container{
-    
+    max-width:1185px ;
+    margin:0 auto;
 }
 
