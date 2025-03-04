@@ -34,13 +34,3 @@ ul, ol{
     max-width: 1185px;
     margin: 0 auto;
 }
-.main-text{
-font-family: var(--fontLF);
-font-size:24 px;
-font-weight:100;
-color:#999
-}
-.main-text span{
-    color: black;
-    font-weight: 700;
-}
